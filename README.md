@@ -143,17 +143,6 @@ Designed and deployed independently to present projects and skills in a polished
 
 ---
 
-### 🟣 GitHub Analytics
-
-<div align="center">
-
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=10bitsofwalid&theme=tokyonight&hide_border=true&background=0d1117&ring=8a2be2&fire=a78bfa&currStreakLabel=a78bfa" width="49%"/>
-
-
-</div>
-
----
 
 ### 🟣 Contribution Activity
 
@@ -198,7 +187,7 @@ Open To:
 
 <div align="center">
 
-<i>"Still learning, still building, keep improving"</i>
+<i>"Still learning, still building, still improving"</i>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243E,50:302B63,100:0F0C29&height=120&section=footer" width="100%"/>
 
