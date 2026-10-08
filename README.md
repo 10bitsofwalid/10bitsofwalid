@@ -187,7 +187,7 @@ Open To:
 
 <div align="center">
 
-<i>"Still learning, still building, still improving"</i>
+<i>"learning, building, improving"</i>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243E,50:302B63,100:0F0C29&height=120&section=footer" width="100%"/>
 
